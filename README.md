@@ -13,7 +13,7 @@ Executing the Python App means, however, it now needs two arguments:
 
 main.py /location/of/csv/file/file.csv /folder/where/you/want/file/written/
 
-I have also included a test load file generated from the C# assemblies.
+I have also included a test load file generated from the C# assemblies which can be used to drive the pipeline.
 
 
 
